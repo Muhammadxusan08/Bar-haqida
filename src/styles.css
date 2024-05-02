@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.style:hover {
+    border-bottom: 2px solid #D6258F;
+}
+
+
+body {
+    background-color: black;
+}
+
+
+.dsadsas {
+    transition: all 0.3s;
+  
+}
+
+.dsadsas:hover{
+      box-shadow: 0px 0px 30px #ff00c3;
+}
+
+
+
+.shadowli {
+    color: #ff00c3;
+    text-shadow: 0 0 30px #ff00c3,
+        0 0 40px #ff00c3,
+        0 0 75px #ff00c3,
+        0 0 135px #ff00c3,
+        0 0 275px #ff00c3,
+        0 0 65px #ff00c3;
+    color: #fff;
+}
+
+
+
+.bg {
+    background-image: url(../public/css/bar-img/bg.png);
+}
+
+
+.borderr {
+    border-radius: 16px 16px 0px;
+}
+
+.dsasad {
+    border-bottom: 1px dotted white;
+    color: white;
+}
+
+
+.borders{
+    width: 100%;
+    border: 2px solid #D6258F;
+    padding-top: 15px;
+    padding-bottom:15px ;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+}
+
+
+.kfjhdskuah{
+    border-top: 2px solid white;
+    box-shadow: 0px 1px 6px 6px #E1078B;
+}
