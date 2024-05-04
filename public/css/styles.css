@@ -547,6 +547,9 @@ video {
 .ml-auto {
   margin-left: auto;
 }
+.block {
+  display: block;
+}
 .flex {
   display: flex;
 }
@@ -597,6 +600,9 @@ video {
 }
 .max-w-\[1920px\] {
   max-width: 1920px;
+}
+.max-w-\[195px\] {
+  max-width: 195px;
 }
 .max-w-\[244px\] {
   max-width: 244px;
