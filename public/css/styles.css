@@ -559,9 +559,12 @@ video {
 .ml-auto {
   margin-left: auto;
 }
+<<<<<<< HEAD
 .mb-\[300px\] {
   margin-bottom: 300px;
 }
+=======
+>>>>>>> d7e4b2c455a85d783bedb5119312159078ea4359
 .block {
   display: block;
 }
