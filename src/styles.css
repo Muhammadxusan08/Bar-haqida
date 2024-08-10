@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 .style:hover {
     border-bottom: 2px solid #D6258F;
